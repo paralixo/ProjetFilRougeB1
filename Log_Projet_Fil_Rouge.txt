@@ -1,0 +1,8 @@
+Utilisateur : root
+Mot de Passe : Passw0rd
+
+Utilisateur : olibrary
+Mot de Passe : olibrary
+
+Utilisateur : phpmyadmin
+Mot de Passe : phpmyadmin
